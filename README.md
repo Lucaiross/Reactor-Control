@@ -1,2 +1,3 @@
 # Reactor-Control
-Reactor
+
+Vyvolává pouze negativní reakce
